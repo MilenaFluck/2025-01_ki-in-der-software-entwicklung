@@ -11,7 +11,7 @@ input: "null" expectedOutput: false
 input: "undefined" expectedOutput: false
 ````
 ### Requirements Description:
-Check whether a model uses a decoder-only architecture.
+Check whether an ai model uses a decoder-only architecture.
 
 ### Hinweis:
 Der Typ des Input und expectedOutput muss immer derselbe sein (String, Boolean etc.).
